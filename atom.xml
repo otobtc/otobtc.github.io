@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Who cares？</title>
+  <icon>https://otobtc.github.io/icon.png</icon>
+  <subtitle>Well I do</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://otobtc.github.io/"/>
+  <updated>2020-06-02T08:31:03.378Z</updated>
+  <id>https://otobtc.github.io/</id>
+  
+  <author>
+    <name>Miles</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="https://otobtc.github.io/archives/a6f5b56e.html"/>
+    <id>https://otobtc.github.io/archives/a6f5b56e.html</id>
+    <published>2020-06-02T07:52:30.000Z</published>
+    <updated>2020-06-02T08:31:03.378Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://otobtc.github.io/archives/4a17b156.html"/>
+    <id>https://otobtc.github.io/archives/4a17b156.html</id>
+    <published>2020-06-02T07:40:09.260Z</published>
+    <updated>2020-06-02T08:31:03.379Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Hexo&lt;/a&gt;! This is your very first
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
