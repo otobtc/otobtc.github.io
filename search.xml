@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>article title</title>
+    <title>Hexo+Github+Next搭建个人博客</title>
     <url>/archives/a6f5b56e.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。<a id="more"></a></p>
+]]></content>
   </entry>
   <entry>
     <title>Hello World</title>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://otobtc.github.io/"/>
-  <updated>2020-06-02T08:31:03.378Z</updated>
+  <updated>2020-06-03T08:30:26.812Z</updated>
   <id>https://otobtc.github.io/</id>
   
   <author>
@@ -17,13 +17,15 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>article title</title>
+    <title>Hexo+Github+Next搭建个人博客</title>
     <link href="https://otobtc.github.io/archives/a6f5b56e.html"/>
     <id>https://otobtc.github.io/archives/a6f5b56e.html</id>
     <published>2020-06-02T07:52:30.000Z</published>
-    <updated>2020-06-02T08:31:03.378Z</updated>
+    <updated>2020-06-03T08:30:26.812Z</updated>
     
     <summary type="html">
+    
+      &lt;p&gt;Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
     
     </summary>
     
